@@ -74,8 +74,8 @@ def analyze_top_low_products(df):
     return sum_order_items_df
 
 # Load data
-all_df = load_data("/mount/src/laskar-ai/data/all_data_df.csv")
-geolocation_df = load_geolocation('/mount/src/laskar-ai/data/geolocation_data.csv')
+all_df = load_data("all_data_df.csv")
+geolocation_df = load_geolocation("geolocation_data.csv")
 customers_df = merge_customer_geolocation(all_df, geolocation_df)
 
 # Convert to GeoDataFrame

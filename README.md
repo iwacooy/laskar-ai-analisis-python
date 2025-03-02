@@ -16,7 +16,7 @@ Proyek akhir laskar ai Belajar Data Analytics dengan Python
 1. Clone repository
 
    ```shell
-   git clone https://github.com/iwacooy/laskar-ai.git
+   git clone https://github.com/iwacooy/laskar-ai-analisis-python.git
    ```
 
 2. Menginstal requirements dengan menjalankan perintah berikut:
@@ -34,3 +34,4 @@ Proyek akhir laskar ai Belajar Data Analytics dengan Python
    cd laskar-ai/dashboard/
    streamlit run dashboard.py
    ```
+Deploy website [Project Data Analytics](https://gvjz3jsm9yllpeeqffa7rh.streamlit.app/)
