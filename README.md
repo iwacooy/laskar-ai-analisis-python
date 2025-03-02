@@ -22,6 +22,7 @@ Proyek akhir laskar ai Belajar Data Analytics dengan Python
 2. Menginstal requirements dengan menjalankan perintah berikut:
 
    ```shell
+   cd laskar-ai-analisis-python
    pip install streamlit
    pip install -r requirements.txt
    ```
@@ -31,7 +32,7 @@ Proyek akhir laskar ai Belajar Data Analytics dengan Python
 1. Masuk ke direktori proyek (Local):
 
    ```shell
-   cd laskar-ai/dashboard/
+   cd laskar-ai-analisis-python/dashboard/
    streamlit run dashboard.py
    ```
 Deploy website [Project Data Analytics](https://gvjz3jsm9yllpeeqffa7rh.streamlit.app/)
